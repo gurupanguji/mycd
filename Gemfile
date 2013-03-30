@@ -1,6 +1,7 @@
 source 'https://rubygems.org'
 
 gem 'rails', '3.2.13'
+# This is a rails application
 
 # Bundle edge Rails instead:
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
@@ -18,6 +19,8 @@ group :assets do
   # gem 'therubyracer', :platforms => :ruby
 
   gem 'uglifier', '>= 1.0.3'
+  gem "flatstrap-rails", "~> 0.3.0.1" #flatstrap
+  gem 'bootstrap-sass', '~> 2.3.1.0' #bootstrap sass
 end
 
 gem 'jquery-rails'
