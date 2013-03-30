@@ -9,6 +9,8 @@
 
 # Ignore the default SQLite database.
 /db/*.sqlite3
+
+# Ignore all logfiles and tempfiles
 /log/*.log
 /tmp
 doc/
@@ -18,4 +20,4 @@ doc/
 .DS_Store
 .idea
 
-# Inset any more files and paths to be ignored in here.
+# Insert any more files and paths to be ignored in here.
