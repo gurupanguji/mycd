@@ -6,4 +6,3 @@
   same file.
 
 * Testing another Readme change and figuring out impact
-
