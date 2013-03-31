@@ -1,6 +1,9 @@
 source 'https://rubygems.org'
 
 gem 'rails', '3.2.13'
+gem 'jquery-rails'
+gem 'devise'
+
 # This is a rails application
 
 # Bundle edge Rails instead:
@@ -30,7 +33,6 @@ group :assets do
   gem 'bootstrap-sass', '~> 2.3.1.0' #bootstrap sass
 end
 
-gem 'jquery-rails'
 
 # To use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.0.0'
