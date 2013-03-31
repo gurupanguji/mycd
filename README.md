@@ -9,8 +9,8 @@ patients to easily journal and track their journey.
 ## Story
 
 ## Who we are?
-[gurupanguji](http://gurupanguji.net)
-[harinisaladi](http://harinisaladi.com)
+* [gurupanguji](http://gurupanguji.net)
+* [harinisaladi](http://harinisaladi.com)
 
 ## Timelines
 We are targeting our first release by end of Q2.
