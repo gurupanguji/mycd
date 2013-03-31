@@ -1,8 +1,14 @@
 # MyCD
-## [[TODO: gurupanguji -- Add details here]]
+This is the readme file for MyCD. MyCD attempts to recreate a journal
+across multiple form factors specifically targeted for a medical
+purpose. 
 
-* HR added to contributors!
-* Adding another line to check what happens when HR and I modify the
-  same file.
+## Story
 
-* Testing another Readme change and figuring out impact
+## Why are we doing this?
+
+## Who we are?
+
+## Timelines
+
+## Release Notes
